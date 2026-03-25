@@ -16,8 +16,8 @@ To write a C program to find number of years based on principle,rate & simple in
 ```
 /*
 
-Developed by: Aparna RB
-RegisterNumber: 212222220005
+Developed by: Kaviyarasan S
+RegisterNumber: 212222060117
 */
 #include <stdio.h> 
 #include <math.h> 
